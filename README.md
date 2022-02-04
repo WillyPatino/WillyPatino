@@ -21,7 +21,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/willypatino22883"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="willypatino22883" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willypatino&show_icons=true&locale=en&layout=compact" alt="willypatino" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=willypatino&show_icons=true&locale=en&layout=compact" alt="willypatino" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=willypatino&show_icons=true&locale=en" alt="willypatino" /></p>
 
