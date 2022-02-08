@@ -9,7 +9,7 @@
 
 <h2 align="left">🗂️ Mi Catalog:</h2>
 <p align="left">
-<a href="https://willypatino.github.io/codigo-web-13/" target="blank"><img align="center" src="https://pngset.com/images/github-logo-label-text-symbol-transparent-png-2425199.png" alt="willybps" height="30" width="30" /></a>
+<a href="https://willypatino.github.io/codigo-web-13/" target="blank"><img align="center" src="https://pngset.com/images/github-logo-label-text-symbol-transparent-png-2425199.png" alt="willybps" height="40" width="40" /></a>
 </p>&nbsp;&nbsp;
   
 <h2 align="left">👨🏻‍💻 Connect with me:</h2>
